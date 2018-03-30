@@ -1,3 +1,6 @@
 [submodule "garnet"]
 	path = garnet
 	url = https://github.com/CristianSarca/garnet
+[submodule "aquarelle"]
+	path = aquarelle
+	url = https://github.com/CristianSarca/aquarelle
