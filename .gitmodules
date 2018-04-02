@@ -4,3 +4,6 @@
 [submodule "aquarelle"]
 	path = aquarelle
 	url = https://github.com/CristianSarca/aquarelle
+[submodule "chimera"]
+	path = chimera
+	url = https://github.com/CristianSarca/chimera
