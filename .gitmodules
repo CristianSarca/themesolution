@@ -7,3 +7,6 @@
 [submodule "chimera"]
 	path = chimera
 	url = https://github.com/CristianSarca/chimera
+[submodule "nix"]
+	path = nix
+	url = https://github.com/CristianSarca/nix
