@@ -16,3 +16,6 @@
 [submodule "opis"]
 	path = opis
 	url = https://github.com/CristianSarca/opis
+[submodule "comp"]
+	path = comp
+	url = https://github.com/CristianSarca/comp
